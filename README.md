@@ -1,7 +1,7 @@
-![logo](mayo-tool-app.webp)
-
 # Mayo-Tool-APK-for-Android-Download
 Mayo Tools APK is an application designed to provide seamless, on-the-go access to expert health information and services from Mayo Clinic.
+
+![logo](https://www.mayotools.com/wp-content/uploads/2023/02/Mayo-Tools-01.jpg)
 
 # [Free Download](https://apkview.com/en/mayo-tool-apk) #
 
